@@ -16,7 +16,7 @@ This is a simple web application that generates random dog images using HTML, CS
 
 ## API Used
 
-The application uses the [Dog Image API]() to fetch random dog images. The API provides various endpoints to access different breeds and images.
+The application uses the [Dog Image API](https://dog.ceo/api/breeds/image/random) to fetch random dog images. The API provides various endpoints to access different breeds and images.
 
 ## Getting Started
 
